@@ -1,0 +1,109 @@
+body {
+  font-family: "Open Sans", sans-serif; }
+
+section {
+  padding: 120px 0; }
+
+.section-title {
+  font-size: 2.6em; }
+
+.form-control {
+  height: 50px; }
+
+textarea.form-control {
+  height: 120px; }
+
+#locais {
+  padding-bottom: 0; }
+
+footer p {
+  margin-bottom: 0; }
+
+.bg-red {
+  background: #BB1B1B; }
+
+.contato .btn,
+.form-mensalista .btn {
+  margin: 0; }
+
+.form-mensalista span {
+  color: #fff; }
+
+.error {
+  background: rgba(223, 5, 5, 0.14);
+  color: #fff; }
+
+.warning {
+  background: rgba(223, 210, 5, 0.14);
+  color: #fff; }
+
+.warning::-webkit-input-placeholder,
+.error::-webkit-input-placeholder {
+  color: #fff; }
+
+.warning:-moz-placeholder,
+.error:-moz-placeholder {
+  /* Firefox 18- */
+  color: #fff; }
+
+.warning::-moz-placeholder,
+.error::-moz-placeholder {
+  /* Firefox 19+ */
+  color: #fff; }
+
+.warning:-ms-input-placeholder,
+.error:-ms-input-placeholder {
+  color: #fff; }
+
+.contato .error {
+  box-shadow: inset 0px 0px 3px #df0505;
+  background: none;
+  color: #555; }
+
+.contato .warning {
+  box-shadow: inset 0px 0px 3px #dfd205;
+  color: #555;
+  background: none; }
+
+.contato .warning::-webkit-input-placeholder,
+.contato .error::-webkit-input-placeholder {
+  color: #555; }
+
+.contato .warning:-moz-placeholder,
+.contato .error:-moz-placeholder {
+  /* Firefox 18- */
+  color: #555; }
+
+.contato .warning::-moz-placeholder,
+.contato .error::-moz-placeholder {
+  /* Firefox 19+ */
+  color: #555; }
+
+.contato .warning:-ms-input-placeholder,
+.contato .error:-ms-input-placeholder {
+  color: #555; }
+
+#mensalista .btn-black:hover {
+  border-color: #fff;
+  color: #fff; }
+
+#animated-tab .nav-tabs > li.active a i {
+  color: #BB1B1B; }
+
+@media (max-width: 375px) {
+  img.logo {
+    max-width: 200px; }
+
+  .corporate-standards .nav-tabs li a {
+    padding: 0; }
+
+  .section-title {
+    line-height: 1.2; }
+
+  .form-mensalista .col-md-8 {
+    margin-bottom: 25px; }
+
+  .form-mensalista .col-md-4 {
+    text-align: center; } }
+
+/*# sourceMappingURL=site.css.map */

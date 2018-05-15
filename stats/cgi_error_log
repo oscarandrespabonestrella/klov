@@ -1,0 +1,889 @@
+20160913T192937: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 59
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 60
+PHP Notice:  Undefined index: imgurl in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 61
+
+20160913T201017: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: imgurl in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 61
+
+20160914T005128: admin.klovsoftware.com/testput.php
+PHP Notice:  Undefined index: fruit in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/testput.php on line 5
+PHP Notice:  Undefined index: quantity in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/testput.php on line 6
+
+20160914T093854: admin.klovsoftware.com/server.php
+PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 4
+
+20160915T204527: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: token in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/InfoController.php on line 21
+
+20160917T093816: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: token in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 28
+
+20160917T094406: admin.klovsoftware.com/server.php
+PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Image file /tmp/phpTdsz4U is not readable' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php:42
+Stack trace:
+#0 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php(26): ImageManipulator->setImageFile('/tmp/phpTdsz4U')
+#1 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php(12): ImageManipulator->__construct('/tmp/phpTdsz4U')
+#2 {main}
+  thrown in /hermes/bosnaweb1
+20160917T094407: admin.klovsoftware.com/server.php
+PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Image file /tmp/phpZyb8FQ is not readable' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php:42
+Stack trace:
+#0 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php(26): ImageManipulator->setImageFile('/tmp/phpZyb8FQ')
+#1 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php(12): ImageManipulator->__construct('/tmp/phpZyb8FQ')
+#2 {main}
+  thrown in /hermes/bosnaweb1
+20160917T095041: admin.klovsoftware.com/server.php
+PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Image file /tmp/phpjd2QII is not readable' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php:42
+Stack trace:
+#0 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php(26): ImageManipulator->setImageFile('/tmp/phpjd2QII')
+#1 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php(12): ImageManipulator->__construct('/tmp/phpjd2QII')
+#2 {main}
+  thrown in /hermes/bosnaweb1
+20160917T095041: admin.klovsoftware.com/server.php
+PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Image file /tmp/phpcc8FwN is not readable' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php:42
+Stack trace:
+#0 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php(26): ImageManipulator->setImageFile('/tmp/phpcc8FwN')
+#1 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php(12): ImageManipulator->__construct('/tmp/phpcc8FwN')
+#2 {main}
+  thrown in /hermes/bosnaweb1
+20160917T095041: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: categoria in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/TrabajoController.php on line 35
+PHP Notice:  Undefined index: nombre in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/TrabajoController.php on line 36
+PHP Notice:  Undefined index: imgurl in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/TrabajoController.php on line 37
+
+20160917T095254: admin.klovsoftware.com/server.php
+PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Image file /tmp/php5SU8ib is not readable' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php:42
+Stack trace:
+#0 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php(26): ImageManipulator->setImageFile('/tmp/php5SU8ib')
+#1 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php(12): ImageManipulator->__construct('/tmp/php5SU8ib')
+#2 {main}
+  thrown in /hermes/bosnaweb1
+20160917T095254: admin.klovsoftware.com/server.php
+PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Image file /tmp/phpoP056k is not readable' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php:42
+Stack trace:
+#0 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php(26): ImageManipulator->setImageFile('/tmp/phpoP056k')
+#1 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php(12): ImageManipulator->__construct('/tmp/phpoP056k')
+#2 {main}
+  thrown in /hermes/bosnaweb1
+20160917T095254: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: categoria in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/TrabajoController.php on line 35
+PHP Notice:  Undefined index: nombre in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/TrabajoController.php on line 36
+PHP Notice:  Undefined index: imgurl in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/TrabajoController.php on line 37
+
+20160917T095551: admin.klovsoftware.com/server.php
+PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Image file /tmp/phps5XKmJ is not readable' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php:42
+Stack trace:
+#0 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php(26): ImageManipulator->setImageFile('/tmp/phps5XKmJ')
+#1 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php(12): ImageManipulator->__construct('/tmp/phps5XKmJ')
+#2 {main}
+  thrown in /hermes/bosnaweb1
+20160917T095551: admin.klovsoftware.com/server.php
+PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Image file /tmp/phpJJ5OEW is not readable' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php:42
+Stack trace:
+#0 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php(26): ImageManipulator->setImageFile('/tmp/phpJJ5OEW')
+#1 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php(12): ImageManipulator->__construct('/tmp/phpJJ5OEW')
+#2 {main}
+  thrown in /hermes/bosnaweb1
+20160917T095551: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: categoria in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/TrabajoController.php on line 35
+PHP Notice:  Undefined index: nombre in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/TrabajoController.php on line 36
+PHP Notice:  Undefined index: imgurl in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/TrabajoController.php on line 37
+
+20160917T100104: admin.klovsoftware.com/server.php
+PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Image file /tmp/phpc1JST9 is not readable' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php:42
+Stack trace:
+#0 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php(26): ImageManipulator->setImageFile('/tmp/phpc1JST9')
+#1 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php(12): ImageManipulator->__construct('/tmp/phpc1JST9')
+#2 {main}
+  thrown in /hermes/bosnaweb1
+20160917T100104: admin.klovsoftware.com/server.php
+PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Image file /tmp/phpWXtdU9 is not readable' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php:42
+Stack trace:
+#0 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php(26): ImageManipulator->setImageFile('/tmp/phpWXtdU9')
+#1 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php(12): ImageManipulator->__construct('/tmp/phpWXtdU9')
+#2 {main}
+  thrown in /hermes/bosnaweb1
+20160917T100359: admin.klovsoftware.com/server.php
+PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Image file /tmp/php6jIxIH is not readable' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php:42
+Stack trace:
+#0 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php(26): ImageManipulator->setImageFile('/tmp/php6jIxIH')
+#1 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php(12): ImageManipulator->__construct('/tmp/php6jIxIH')
+#2 {main}
+  thrown in /hermes/bosnaweb1
+20160917T100400: admin.klovsoftware.com/server.php
+PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Image file /tmp/phpFWp22B is not readable' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php:42
+Stack trace:
+#0 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php(26): ImageManipulator->setImageFile('/tmp/phpFWp22B')
+#1 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php(12): ImageManipulator->__construct('/tmp/phpFWp22B')
+#2 {main}
+  thrown in /hermes/bosnaweb1
+20160917T100400: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: categoria in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/TrabajoController.php on line 35
+PHP Notice:  Undefined index: nombre in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/TrabajoController.php on line 36
+PHP Notice:  Undefined index: imgurl in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/TrabajoController.php on line 37
+
+20160917T100533: admin.klovsoftware.com/server.php
+PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Image file /tmp/php7zLA9T is not readable' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php:42
+Stack trace:
+#0 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php(26): ImageManipulator->setImageFile('/tmp/php7zLA9T')
+#1 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php(12): ImageManipulator->__construct('/tmp/php7zLA9T')
+#2 {main}
+  thrown in /hermes/bosnaweb1
+20160917T100533: admin.klovsoftware.com/server.php
+PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Image file /tmp/phpDYNWd1 is not readable' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php:42
+Stack trace:
+#0 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php(26): ImageManipulator->setImageFile('/tmp/phpDYNWd1')
+#1 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php(12): ImageManipulator->__construct('/tmp/phpDYNWd1')
+#2 {main}
+  thrown in /hermes/bosnaweb1
+20160917T100533: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: categoria in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/TrabajoController.php on line 35
+PHP Notice:  Undefined index: nombre in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/TrabajoController.php on line 36
+PHP Notice:  Undefined index: imgurl in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/TrabajoController.php on line 37
+
+20160917T101215: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Logourl in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ClienteController.php on line 37
+
+20160917T103058: admin.klovsoftware.com/api/public/index.php
+PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Unsupported HTTP method "PATH" provided' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/vendor/slim/slim/Slim/Http/Request.php:327
+Stack trace:
+#0 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/vendor/slim/slim/Slim/Http/Request.php(179): Slim\Http\Request->filterMethod('PATH')
+#1 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/vendor/slim/slim/Slim/Http/Request.php(146): Sli
+20160917T103211: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: imgurl in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 61
+
+20160917T103515: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: imgurl in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 61
+
+20160917T104709: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 8
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 9
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 10
+PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'No image set' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/img
+20160917T104709: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 8
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 9
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 10
+PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'No image set' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/img
+20160917T104716: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 8
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 9
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 10
+PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'No image set' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/img
+20160917T104716: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 8
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 9
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 10
+PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'No image set' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/img
+20160917T104904: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Logourl in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ClienteController.php on line 60
+
+20160917T112158: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Quienes in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/InfoController.php on line 24
+PHP Fatal error:  Cannot use object of type asomarmol\asomarmol\Infos as array in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/InfoController.php on line 27
+
+20160917T112335: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Quienes in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/InfoController.php on line 24
+PHP Fatal error:  Cannot use object of type asomarmol\asomarmol\Infos as array in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/InfoController.php on line 27
+
+20160917T112413: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Quienes in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/InfoController.php on line 24
+PHP Fatal error:  Cannot use object of type asomarmol\asomarmol\Infos as array in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/InfoController.php on line 27
+
+20160917T112540: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Quienes in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/InfoController.php on line 24
+PHP Fatal error:  Cannot use object of type asomarmol\asomarmol\Infos as array in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/InfoController.php on line 27
+
+20160917T112800: admin.klovsoftware.com/api/public/index.php
+PHP Fatal error:  Cannot use object of type asomarmol\asomarmol\Infos as array in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/InfoController.php on line 27
+
+20160917T113322: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined variable: imgquienes in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/InfoController.php on line 50
+PHP Fatal error:  Undefined class constant 'COL_IMGquienes' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/models/schema/asomarmol/asomarmol/Base/Infos.php on line 490
+
+20160917T113339: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined variable: imgquienes in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/InfoController.php on line 50
+PHP Fatal error:  Undefined class constant 'COL_IMGquienes' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/models/schema/asomarmol/asomarmol/Base/Infos.php on line 490
+
+20160917T113508: admin.klovsoftware.com/api/public/index.php
+PHP Fatal error:  Undefined class constant 'COL_IMGquienes' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/models/schema/asomarmol/asomarmol/Base/Infos.php on line 1177
+
+20160917T113541: admin.klovsoftware.com/api/public/index.php
+PHP Fatal error:  Undefined class constant 'COL_IMGquienes' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/models/schema/asomarmol/asomarmol/Base/Infos.php on line 1177
+
+20160917T113614: admin.klovsoftware.com/api/public/index.php
+PHP Fatal error:  Undefined class constant 'COL_IMGquienes' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/models/schema/asomarmol/asomarmol/Base/Infos.php on line 1177
+
+20160917T113702: admin.klovsoftware.com/api/public/index.php
+PHP Fatal error:  Undefined class constant 'COL_IMGquienes' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/models/schema/asomarmol/asomarmol/Base/Infos.php on line 1177
+
+20160917T113825: admin.klovsoftware.com/api/public/index.php
+PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/models/schema/asomarmol/asomarmol/Base/Infos.php on line 3
+
+20160917T113831: admin.klovsoftware.com/api/public/index.php
+PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/models/schema/asomarmol/asomarmol/Base/Infos.php on line 3
+
+20160917T113834: admin.klovsoftware.com/api/public/index.php
+PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/models/schema/asomarmol/asomarmol/Base/Infos.php on line 3
+
+20160917T113902: admin.klovsoftware.com/api/public/index.php
+PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/models/schema/asomarmol/asomarmol/Base/Infos.php on line 3
+
+20160917T113906: admin.klovsoftware.com/api/public/index.php
+PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/models/schema/asomarmol/asomarmol/Base/Infos.php on line 3
+
+20160917T113913: admin.klovsoftware.com/api/public/index.php
+PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/models/schema/asomarmol/asomarmol/Base/Infos.php on line 3
+
+20160917T114120: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Quienes in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/InfoController.php on line 24
+PHP Notice:  Undefined index: Quienes in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/InfoController.php on line 25
+
+20160924T100309: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 8
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 9
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 10
+PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'No image set' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/img
+20160924T100309: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 8
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 9
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 10
+PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'No image set' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/img
+20160924T100309: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Imgurl in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 56
+
+20160924T100314: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 8
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 9
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 10
+PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'No image set' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/img
+20160924T100314: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 8
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 9
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 10
+PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'No image set' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/img
+20160924T100315: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Imgurl in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 56
+
+20160925T085418: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 8
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 9
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 10
+PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'No image set' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/img
+20160925T085418: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 8
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 9
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 10
+PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'No image set' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/img
+20160926T202515: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20160926T202641: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20160926T202706: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20160926T202725: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20160926T202752: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20160926T202816: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20160926T202842: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20160926T202910: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20160926T202925: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 55
+
+20160926T203007: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 8
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 9
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 10
+PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'No image set' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/img
+20160926T203007: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 8
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 9
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 10
+PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'No image set' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/img
+20160926T203050: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 8
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 9
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 10
+PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'No image set' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/img
+20160926T203050: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 8
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 9
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 10
+PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'No image set' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/img
+20160926T203050: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 55
+PHP Notice:  Undefined index: Imgurl in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 56
+
+20160926T203129: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 55
+
+20160926T203228: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20160926T203237: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 8
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 9
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 10
+PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'No image set' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/img
+20160926T203237: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 8
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 9
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 10
+PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'No image set' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/img
+20160926T203320: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20160926T203347: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20160926T204454: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20160926T204609: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20160926T204708: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20160926T204716: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 8
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 9
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 10
+PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'No image set' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/img
+20160926T204716: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 8
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 9
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 10
+PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'No image set' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/img
+20160926T204807: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20160926T204920: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 8
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 9
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 10
+PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'No image set' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/img
+20160926T204920: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 8
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 9
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 10
+PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'No image set' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/img
+20160926T204944: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 54
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 55
+
+20160926T204944: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 54
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 55
+
+20160926T205013: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 54
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 55
+
+20160926T205018: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 8
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 9
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 10
+PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'No image set' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/img
+20160926T205018: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 8
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 9
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 10
+PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'No image set' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/img
+20160926T205109: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 54
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 55
+
+20160926T205951: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 55
+
+20160926T210041: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 55
+
+20160926T210125: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 55
+
+20160926T210322: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 55
+
+20160926T210322: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 55
+
+20160930T123204: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20160930T123321: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20160930T123410: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20160930T123530: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20160930T123556: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20160930T123749: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Nombre in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/TrabajoController.php on line 33
+
+20160930T124152: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20160930T124237: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20160930T124414: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Nombre in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 29
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20161005T111458: admin.klovsoftware.com/server.php
+PHP Fatal error:  Call to undefined function debug_to_console() in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php on line 176
+
+20161005T111458: admin.klovsoftware.com/server.php
+PHP Fatal error:  Call to undefined function debug_to_console() in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php on line 176
+
+20161005T115844: admin.klovsoftware.com/server.php
+PHP Warning:  imagecreatetruecolor(): gd warning: product of memory allocation multiplication would exceed INT_MAX, failing operation gracefully
+ in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php on line 104
+PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php on line 105
+PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Invalid resource' in /her
+20161005T115844: admin.klovsoftware.com/server.php
+PHP Warning:  imagecreatetruecolor(): gd warning: product of memory allocation multiplication would exceed INT_MAX, failing operation gracefully
+ in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php on line 104
+PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php on line 105
+PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Invalid resource' in /her
+20161005T120310: admin.klovsoftware.com/server.php
+PHP Warning:  imagecreatetruecolor(): gd warning: product of memory allocation multiplication would exceed INT_MAX, failing operation gracefully
+ in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php on line 104
+PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php on line 105
+PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Invalid resource' in /her
+20161005T120311: admin.klovsoftware.com/server.php
+PHP Warning:  imagecreatetruecolor(): gd warning: product of memory allocation multiplication would exceed INT_MAX, failing operation gracefully
+ in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php on line 104
+PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php on line 105
+PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Invalid resource' in /her
+20161005T120538: admin.klovsoftware.com/server.php
+PHP Warning:  imagecreatetruecolor(): gd warning: product of memory allocation multiplication would exceed INT_MAX, failing operation gracefully
+ in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php on line 104
+PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php on line 105
+PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Invalid resource' in /her
+20161005T120538: admin.klovsoftware.com/server.php
+PHP Warning:  imagecreatetruecolor(): gd warning: product of memory allocation multiplication would exceed INT_MAX, failing operation gracefully
+ in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php on line 104
+PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php on line 105
+PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Invalid resource' in /her
+20161005T121120: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined variable: im in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 14
+PHP Fatal error:  Call to a member function getWidth() on null in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 14
+
+20161005T121121: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined variable: im in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 14
+PHP Fatal error:  Call to a member function getWidth() on null in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 14
+
+20161005T121214: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined variable: im in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 17
+PHP Fatal error:  Call to a member function getWidth() on null in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 17
+
+20161005T121214: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined variable: im in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 17
+PHP Fatal error:  Call to a member function getWidth() on null in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 17
+
+20161005T121312: admin.klovsoftware.com/server.php
+PHP Warning:  is_file() expects parameter 1 to be a valid path, object given in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php on line 25
+PHP Catchable fatal error:  Object of class ImageManipulator could not be converted to string in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php on line 76
+
+20161005T121312: admin.klovsoftware.com/server.php
+PHP Warning:  is_file() expects parameter 1 to be a valid path, object given in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php on line 25
+PHP Catchable fatal error:  Object of class ImageManipulator could not be converted to string in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php on line 76
+
+20161005T121804: admin.klovsoftware.com/server.php
+PHP Warning:  is_file() expects parameter 1 to be a valid path, string given in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php on line 25
+
+20161005T121805: admin.klovsoftware.com/server.php
+PHP Warning:  is_file() expects parameter 1 to be a valid path, string given in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php on line 25
+
+20161005T121841: admin.klovsoftware.com/server.php
+PHP Warning:  is_file() expects parameter 1 to be a valid path, string given in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php on line 25
+
+20161005T121842: admin.klovsoftware.com/server.php
+PHP Warning:  is_file() expects parameter 1 to be a valid path, string given in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php on line 25
+
+20161005T122133: admin.klovsoftware.com/server.php
+PHP Parse error:  syntax error, unexpected ';' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 21
+
+20161005T122134: admin.klovsoftware.com/server.php
+PHP Parse error:  syntax error, unexpected ';' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 21
+
+20161005T122217: admin.klovsoftware.com/server.php
+PHP Warning:  is_file() expects parameter 1 to be a valid path, resource given in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php on line 25
+PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php on line 76
+PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.ph
+20161005T122219: admin.klovsoftware.com/server.php
+PHP Warning:  is_file() expects parameter 1 to be a valid path, resource given in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php on line 25
+PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php on line 76
+PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.ph
+20161019T224049: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 8
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 9
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 10
+PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'No image set' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/img
+20161019T224051: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 8
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 9
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 10
+PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'No image set' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/img
+20161019T224051: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Logourl in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ClienteController.php on line 55
+
+20161019T230606: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 8
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 9
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 10
+PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'No image set' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/img
+20161019T230606: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 8
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 9
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 10
+PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'No image set' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/img
+20161019T230606: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Imgurl in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/TrabajoController.php on line 54
+
+20161020T131805: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Nombre in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/TrabajoController.php on line 33
+
+20161021T101235: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20161021T105017: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Nombre in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/TrabajoController.php on line 33
+
+20161101T114407: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20161101T114839: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Nombre in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 29
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20161101T115445: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 54
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 55
+
+20161101T120027: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 8
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 9
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 10
+PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'No image set' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/img
+20161101T120027: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 8
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 9
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 10
+PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'No image set' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/img
+20161101T120027: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Nombre in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 29
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Imgurl in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 32
+
+20161101T120139: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Nombre in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 29
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+
+20161101T120214: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Nombre in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 29
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+
+20161101T120509: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Nombre in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 29
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+
+20161110T120637: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 55
+
+20161110T120638: admin.klovsoftware.com/server.php
+PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Image type  not supported' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php:59
+Stack trace:
+#0 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php(26): ImageManipulator->setImageFile('/tmp/php103dk4')
+#1 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php(11): ImageManipulator->__construct('/tmp/php103dk4')
+#2 {main}
+  thrown in /hermes/bosnaweb19a/b515/ipg.klov
+20161110T120639: admin.klovsoftware.com/server.php
+PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Image type  not supported' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php:59
+Stack trace:
+#0 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php(26): ImageManipulator->setImageFile('/tmp/php0ABaMs')
+#1 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php(11): ImageManipulator->__construct('/tmp/php0ABaMs')
+#2 {main}
+  thrown in /hermes/bosnaweb19a/b515/ipg.klov
+20161110T123626: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 55
+
+20161110T123813: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 55
+
+20161110T123843: admin.klovsoftware.com/server.php
+PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Image type 6 not supported' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php:59
+Stack trace:
+#0 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php(26): ImageManipulator->setImageFile('/tmp/phpICC9Tm')
+#1 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php(11): ImageManipulator->__construct('/tmp/phpICC9Tm')
+#2 {main}
+  thrown in /hermes/bosnaweb19a/b515/ipg.klo
+20161110T123858: admin.klovsoftware.com/server.php
+PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Image type 6 not supported' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php:59
+Stack trace:
+#0 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/imgclass.php(26): ImageManipulator->setImageFile('/tmp/phpcchLwi')
+#1 /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php(11): ImageManipulator->__construct('/tmp/phpcchLwi')
+#2 {main}
+  thrown in /hermes/bosnaweb19a/b515/ipg.klo
+20161110T123941: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 55
+
+20161110T124434: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20161110T125008: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 54
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 55
+
+20161110T125328: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20161110T142606: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 54
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 55
+
+20161110T142820: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 55
+
+20161110T143304: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 54
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 55
+
+20161110T143335: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 54
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 55
+
+20161110T143400: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 54
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 55
+
+20161110T143636: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 54
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 55
+
+20161110T143951: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20161110T144154: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20161110T144626: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20161110T144752: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20161110T144854: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20161110T145006: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20161110T145646: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20161110T145738: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20161110T145923: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20161110T150057: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20161110T151529: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 8
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 9
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 10
+PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'No image set' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/img
+20161110T151529: admin.klovsoftware.com/server.php
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 8
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 9
+PHP Notice:  Undefined index: file in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/server.php on line 10
+PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'No image set' in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/img
+20161110T151529: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Imgurl in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 56
+
+20161110T151746: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 54
+
+20161110T153427: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 54
+
+20161110T153742: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 54
+
+20161110T153946: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20161110T154035: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20161110T154150: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 54
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 55
+
+20161110T154413: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20161110T154640: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20161110T154853: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20161110T154915: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 54
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 55
+
+20161110T155622: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20161110T155705: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20161110T160324: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20161110T160351: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20161110T160513: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 54
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 55
+
+20161110T160945: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20161110T161327: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20161110T161922: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20161110T161955: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20161110T162205: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20170214T054447: www.klovsoftware.com/ecommerce/wp-admin/admin-ajax.php
+sh: 1: /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/ecommerce/wp-content/plugins/mojo-marketplace-wp-plugin/lib/.staging: Permission denied
+
+20170214T064625: www.klovsoftware.com/ecommerce/index.php
+PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+
+20170403T100839: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20170403T102546: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20170403T103037: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20170403T103459: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20170403T103917: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20170403T104059: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Nombre in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 29
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20170403T104545: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20170403T104854: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20170403T110018: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20170403T110044: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20170403T110120: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+
+20170403T110150: admin.klovsoftware.com/api/public/index.php
+PHP Notice:  Undefined index: Color in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 30
+PHP Notice:  Undefined index: Usos in /hermes/bosnaweb19a/b515/ipg.klovsoftwarecom/asomarmol/admin/api/app/controllers/ProductoController.php on line 31
+

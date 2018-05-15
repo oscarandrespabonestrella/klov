@@ -1,0 +1,419 @@
+<!doctype html>
+<html class="no-js" lang="en">
+    <head>
+        <title>Rede Fred</title>
+        <meta name="description" content="Rede de estacionamentos Premium de BH">
+        <meta name="keywords" content="">
+        <meta charset="utf-8">
+        <meta name="author" content="Klov">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1" />
+        <!-- favicon -->
+        <link rel="apple-touch-icon" sizes="57x57" href="images/favicons/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="images/favicons/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="images/favicons/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="images/favicons/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="images/favicons/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="images/favicons/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="images/favicons/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="images/favicons/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="images/favicons/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="images/favicons/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="images/favicons/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="images/favicons/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="images/favicons/favicon-16x16.png">
+        <link rel="stylesheet" href="css/main.css" />
+        <link rel="stylesheet" href="css/style.css" />
+        <link rel="stylesheet" href="css/responsive.css" />
+        <link rel="stylesheet" href="css/site.css" />
+        <!--[if IE]>
+            <link rel="stylesheet" href="css/style-ie.css" />
+        <![endif]-->
+        <!--[if IE]>
+            <script src="js/html5shiv.js"></script>
+        <![endif]-->
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
+        <script type="text/javascript" src="js/jquery.min.js"></script>
+        <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
+        <script type="text/javascript" src="js/jquery.gmap.js"></script>
+          <script type="text/javascript" src="js/app.js"></script>
+
+    </head>
+    <body  ng-app="formApp">
+        <!-- navigation panel -->
+        <nav class="navbar navbar-default navbar-fixed-top nav-transparent overlay-nav sticky-nav nav-white nav-border-bottom" role="navigation">
+            <div class="container">
+                <div class="row">
+                    <!-- logo -->
+                    <div class="col-md-2 pull-left"><a class="logo-light" href="index.html"><img alt="" src="images/logo-white.png" class="logo" /></a><a class="logo-dark" href="index.html"><img alt="" src="images/logo-light.png" class="logo" /></a></div>
+
+                    <div class="navbar-header col-sm-6 col-xs-2 pull-right">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+                    </div>
+                    <!-- toggle navigation end -->
+                    <!-- main menu -->
+                    <div class="col-md-8 accordion-menu pull-right text-right">
+                        <div class="navbar-collapse collapse">
+                            <ul id="accordion" class="nav navbar-nav navbar-right panel-group">
+                                <!-- menu item -->
+                                <li class="current"><a href="#slider"class="inner-link"><div>Inicio</div></a></li>
+                                <li><a href="#about" class="inner-link"><div>Quem Somos?</div></a></li>
+                                <li><a href="#mensalista" class="inner-link"><div>Mensalista</div></a></li>
+                                <li><a href="#servicos" class="inner-link"><div>Serviços</div></a></li>
+                                <li><a href="#locais" class="inner-link"><div>nosso locais</div></a></li>
+                                <li><a href="#contato" class="inner-link"><div>Contato</div></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- end main menu -->
+                </div>
+            </div>
+        </nav>
+        <!-- end navigation panel -->
+        <!-- slider -->
+        <section class="parallax1 parallax-fix full-screen no-padding scroll-to-down-white" onclick="scrollToDown()" id="slider">
+            <img class="parallax-background-img" src="images/slider1.jpg" alt="" />
+            <div class="opacity-medium bg-dark-gray"></div>
+            <div class="container full-screen position-relative">
+                <div class="slider-typography">
+                    <div class="slider-text-middle-main">
+                        <div class="slider-text-bottom slider-text-middle5 text-left">
+                            <span class="slider-number white-text">1</span>
+                            <span class="slider-title-big5 white-text">Lorem ipsum dolor sit k</span>
+                            <span class="slider-subtitle5 white-text">amet consectetur adipisicing <br> Lorem ipsum dolor<br> technology</span><br>
+                            <div class="separator-line bg-red no-margin-lr no-margin-top"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end slider -->
+        <!-- about section -->
+        <section id="about" class="no-padding-bottom wow fadeIn">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 col-sm-10 text-center center-col">
+                        <span class="margin-five no-margin-top display-block letter-spacing-2">EST. 2011</span>
+                        <h1>Lorem ipsum dolor sit amet, consectetur adipisic</h1>
+                        <p class="text-med width-90 center-col margin-seven no-margin-bottom"> ing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+
+        <section id="work-process" class="work-process wow fadeIn">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3 col-sm-3 sm-display-none col-xs-12 wow fadeIn">
+                        <h5>lorem process</h5>
+                        <div class="separator-line bg-red no-margin-lr"></div>
+                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the standard dummy text.</p>
+                    </div>
+                    <div class="col-md-3 col-sm-4 col-xs-4 text-center wow fadeIn" data-wow-duration="600ms"><i class="icon-chat extra-large-icon"></i><span class="display-block margin-ten work-process-title">1. Discover</span></div>
+                    <div class="col-md-3 col-sm-4 col-xs-4 text-center wow fadeIn" data-wow-duration="900ms"><i class="icon-browser extra-large-icon"></i><span class="display-block margin-ten work-process-title">2. Development</span></div>
+                    <div class="col-md-3 col-sm-4 col-xs-4 text-center wow fadeIn" data-wow-duration="1200ms"><i class="icon-hotairballoon extra-large-icon"></i><span class="display-block margin-ten work-process-title">3. Launch</span></div>
+                </div>
+            </div>
+        </section>
+        <!-- end about section -->
+        <!-- features section -->
+        <section id="mensalista" class="features wow fadeIn parallax1 parallax-fix" style="background: url(images/slider2.jpg) 50% 92px;}">
+            <div class="opacity-full bg-dark-gray"></div>
+            <div class="container">
+              <div class="row clearfix common-height">
+                <div class="col-md-4 col-md-offset-4 text-center wow fadeInUp animated" data-wow-duration="300ms" style="visibility: visible; animation-duration: 300ms; animation-name: fadeInUp;">
+                    <!-- page title -->
+                    <h1 class="white-text">Quer ser Mensalista?</h1>
+                    <!-- end page title -->
+                    <!-- page title tagline -->
+                    <span class="white-text xs-display-none">Cadastre-se na nossa lista de espera, e proximamente teremos o orgulho de ter voce como cliente :)</span>
+                    <!-- end title tagline -->
+                    <div class="separator-line margin-three bg-white no-margin-lr sm-margin-top-three sm-margin-bottom-three no-margin-bottom xs-display-none"></div>
+                </div>
+
+                <div ng-controller="MainCtrl" class="col-md-4 col-md-offset-4 col-padding mensalista">
+                    <form name="formMensalista" class="form-mensalista">
+                      <input type="text" name="nome" placeholder="Nome" ng-model="formData.name" required ng-class="{ error: formMensalista.nome.$error.required && !formMensalista.$pristine }"></input><br>
+                      <input type="email" name="email" placeholder="E-mail" ng-model="formData.email" required ng-class="{ error: formMensalista.email.$error.required && !formMensalista.$pristine, warning: formMensalista.email.$error.email }"></input><br>
+                      <div class="row-fluid">
+                        <div class="col-md-8">
+                          <span ng-show="!formMensalista.$pristine && formMensalista.nome.$error.required" >O nome é obrigatorio.</span>
+                          <span ng-show="!formMensalista.$pristine && formMensalista.email.$error.required">O e-mail é obrigatorio.</span>
+                          <span ng-show="!formMensalista.$pristine && formMensalista.email.$error.email">Favor cadastrar um e-mail valido.</span>
+                        </div>
+                        <div class="col-md-4" style=" padding-right: 0;">
+                          <input type="submit" class="btn btn btn-black no-margin-bottom btn-medium"  value="Enviar" ng-click="submitForm(formData)" ng-disabled="!formMensalista.$valid"></input>
+                        </div>
+
+                      </div>
+
+
+                    </form>
+                </div>
+            </div>
+
+            </div>
+
+        </section>
+        <!-- end features section -->
+
+        <!-- services section -->
+        <section id="servicos" class="corporate-standards no-padding-bottom wow fadeIn">
+            <div class="container">
+                <div class="row">
+                    <!-- section title -->
+                    <div class="col-md-12 text-center">
+                        <h1 class="section-title no-padding-bottom">Our Services</h1>
+                    </div>
+                    <!-- end section title -->
+                </div>
+            </div>
+            <div class="container-fluid margin-five no-margin-bottom no-padding">
+                <div class="row no-margin">
+                    <!-- tab -->
+                    <div class="col-md-12 col-sm-12 center-col text-center no-padding" id="animated-tab">
+                        <!-- tab navigation -->
+                        <ul class="nav nav-tabs margin-five no-margin-top xs-margin-bottom-seven">
+                            <li class="nav active"><a href="#tab6_sec1" data-toggle="tab" class="xs-min-height-inherit xs-no-padding"><span><i class="icon-camara"></i></span></a><br><span class="text-small text-uppercase letter-spacing-3 margin-five font-weight-600 xs-letter-spacing-none xs-display-none">Segurança</span></li>
+                            <li class="nav"><a href="#tab6_sec2" data-toggle="tab" class="xs-min-height-inherit xs-no-padding"><span><i class="icon-bus"></i></span></a><br><span class="text-small text-uppercase letter-spacing-3 margin-five font-weight-600 xs-letter-spacing-none xs-display-none">Vallet</span></li>
+                            <li class="nav"><a href="#tab6_sec3" data-toggle="tab" class="xs-min-height-inherit xs-no-padding"><span><i class="icon-moto"></i></span></a><br><span class="text-small text-uppercase letter-spacing-3 margin-five font-weight-600 xs-letter-spacing-none xs-display-none">Motos</span></li>
+                            <li class="nav"><a href="#tab6_sec4" data-toggle="tab" class="xs-min-height-inherit xs-no-padding"><span><i class="icon-park"></i></span></a><br><span class="text-small text-uppercase letter-spacing-3 margin-five font-weight-600 xs-letter-spacing-none xs-display-none">Acessos</span></li>
+                        </ul>
+                        <!-- end tab navigation -->
+                        <!-- tab content section -->
+                        <div class="tab-content">
+                            <!-- tab content -->
+                            <div id="tab6_sec1" class="text-center center-col tab-pane fade in active">
+                                <div class="tab-pane fade in">
+                                    <div class="col-lg-6 col-md-6 no-padding corporate-standards-img cover-background position-relative" style="background-image:url('images/servico1.jpg');">
+                                        <div class="opacity-medium bg-black"></div>
+                                    </div>
+                                    <div class="col-lg-6 col-md-6 corporate-standards-text sm-margin-lr-four sm-margin-top-four xs-padding-tb-ten">
+                                        <div class="img-border-small-fix border-gray"></div>
+                                        <h1 class="margin-ten no-margin-bottom">Intelligence is nothing without ambition.</h1>
+                                        <p class="text-med margin-ten width-80 center-col xs-width-100">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- end tab content -->
+                            <!-- tab content -->
+                            <div id="tab6_sec2" class="text-center center-col tab-pane fade in">
+                                <div class="tab-pane fade in">
+                                    <div class="col-lg-6 col-md-6 no-padding corporate-standards-img cover-background position-relative" style="background-image:url('images/servico2.jpg');">
+                                        <div class="opacity-medium bg-black"></div>
+
+                                    </div>
+                                    <div class="col-lg-6 col-md-6 corporate-standards-text sm-margin-lr-four sm-margin-top-four xs-padding-tb-ten">
+                                        <div class="img-border-small-fix border-gray"></div>
+                                        <h1 class="margin-ten no-margin-bottom">We specialise in creating success brands.</h1>
+                                        <p class="text-med margin-ten width-80 center-col">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- end tab content -->
+                            <!-- tab content -->
+                            <div id="tab6_sec3" class="text-center center-col tab-pane fade in">
+                                <div class="tab-pane fade in">
+                                    <div class="col-lg-6 col-md-6 no-padding corporate-standards-img cover-background position-relative" style="background-image:url('images/servico3.jpg');">
+                                        <div class="opacity-medium bg-black"></div>
+
+                                    </div>
+                                    <div class="col-lg-6 col-md-6 corporate-standards-text sm-margin-lr-four sm-margin-top-four xs-padding-tb-ten">
+                                        <div class="img-border-small-fix border-gray"></div>
+                                        <h1 class="margin-ten no-margin-bottom">Intelligence is nothing without ambition.</h1>
+                                        <p class="text-med margin-ten width-80 center-col">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- end tab content -->
+                            <!-- tab content -->
+                            <div id="tab6_sec4" class="text-center center-col tab-pane fade in">
+                                <div class="tab-pane fade in">
+                                    <div class="col-lg-6 col-md-6 no-padding corporate-standards-img cover-background position-relative" style="background-image:url('images/servico4.jpg');">
+                                        <div class="opacity-medium bg-black"></div>
+
+                                    </div>
+                                    <div class="col-lg-6 col-md-6 corporate-standards-text sm-margin-lr-four sm-margin-top-four xs-padding-tb-ten">
+                                        <div class="img-border-small-fix border-gray"></div>
+                                        <h1 class="margin-ten no-margin-bottom">We specialise in creating success brands.</h1>
+                                        <p class="text-med margin-ten width-80 center-col">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- end tab content -->
+                        </div>
+                        <!-- end tab content section -->
+                    </div>
+                    <!-- end tab -->
+                </div>
+            </div>
+        </section>
+        <!-- end services section -->
+        <section id="locais">
+          <div class="container clearfix text-center">
+            <h1 class="section-title">Nossos Locais</h1>
+          </div>
+
+          <div id="google-map5" style="height: 400px; margin-bottom: 20px;" class="gmap"></div>
+
+
+          <script type="text/javascript">
+
+          $('#google-map5').gMap({
+
+             maptype: 'ROADMAP',
+             zoom: 17,
+             markers: [
+              {
+                address: "R. Oliveira, 490 - Cruzeiro",
+                html: "R. Oliveira, 490 - Cruzeiro",
+                icon: {
+                    image: "images/pin.png",
+                    iconsize: [35, 45],
+                    iconanchor: [12,46]
+                }
+              },
+              {
+                address: "R. Ouro Preto, 760 - Barro Preto",
+                html: "R. Ouro Preto, 760 - Barro Preto"
+              }
+
+             ],
+
+
+             doubleclickzoom: false,
+             controls: {
+               panControl: true,
+               zoomControl: true,
+               mapTypeControl: false,
+               scaleControl: false,
+               streetViewControl: true,
+               overviewMapControl: false
+             }
+
+
+
+          });
+
+          </script>
+
+        </section>
+
+
+
+        <section id="contato" class="wow fadeInDown"  ng-controller="MainContato">
+         <div class="container">
+           <div class="row">
+             <div class="col-md-12 text-center">
+                <h1 class="section-title black-text">Fale Conosco</h1>
+             </div>
+           </div>
+
+            <form class="contato" name="formContato" action="index.html" method="post">
+            <div class="row">
+              <div class="col-md-6">
+                <input type="text" Name="nome" placeholder="Seu Nome*" class="form-control" required ng-model="formData.name" required ng-class="{ error: formContato.nome.$error.required && !formContato.$pristine }" >
+                <input type="email" Name="email" placeholder="Seu E-mail*" class="form-control" required ng-model="formData.email"  ng-class="{ error: formContato.email.$error.required && !formContato.$pristine, warning: formContato.email.$error.email }">
+              </div>
+              <div class="col-md-6">
+                <textarea Name="mensagem" placeholder="Sua mensagem*" class="form-control" required ng-model="formData.mensagem" required ng-class="{ error: formContato.mensagem.$error.required && !formContato.$pristine }"></textarea>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-10">
+                <span ng-show="!formContato.$pristine && formContato.nome.$error.required" >O nome é obrigatorio.</span>
+                <span ng-show="!formContato.$pristine && formContato.email.$error.required">O e-mail é obrigatorio.</span>
+                <span ng-show="!formContato.$pristine && formContato.email.$error.email">Favor cadastrar um e-mail valido.</span>
+                <span ng-show="!formContato.$pristine && formContato.mensagem.$error.required">A mensagem é obrigatoria.</span>
+              </div>
+              <div class="col-md-2 text-right ">
+                <input type="submit" value="Enviar" class="btn btn-large btn-black" ng-click="submitForm(formData)" ng-disabled="!formContato.$valid">
+              </div>
+
+            </div>
+            </form>
+
+          </div>
+        </section>
+
+
+
+        <!-- footer -->
+        <footer>
+            <div class=" bg-white footer-top">
+                <div class="container">
+                    <div class="row margin-four wow fadeInUp">
+                        <!-- phone -->
+                        <div class="col-md-4 col-sm-4 text-center"><i class="icon-phone small-icon black-text"></i><h6 class="black-text margin-two no-margin-bottom">(31) 3287-2189 </h6></div>
+                        <!-- end phone -->
+                        <!-- address -->
+                        <div class="col-md-4 col-sm-4 text-center"><i class="icon-map-pin small-icon black-text"></i><h6 class="black-text margin-two no-margin-bottom">Belo Horizonte, Minas Gerais</h6></div>
+                        <!-- end address -->
+                        <!-- email -->
+                        <div class="col-md-4 col-sm-4 text-center"><i class="icon-envelope small-icon black-text"></i><h6 class="margin-two no-margin-bottom"><a href="mailto:no-reply@domain.com" class="black-text">contato@redefred.com.br</a></h6></div>
+                        <!-- end email -->
+                    </div>
+                </div>
+            </div>
+
+            <div class="container-fluid bg-dark-gray footer-bottom">
+                <div class="container">
+                    <div class="row margin-three">
+                        <!-- copyright -->
+                        <div class="col-md-6 col-sm-6 col-xs-12 copyright text-left letter-spacing-1 xs-text-center xs-margin-bottom-one">
+                            &copy; 2015 Rede Fred todos os direitos reservados.
+                        </div>
+                        <!-- end copyright -->
+                        <!-- logo -->
+                        <div class="hidden-xs col-md-6 col-sm-6 col-xs-12 footer-logo text-right xs-text-center">
+                            <p>Produzido com ♥ por <a href="http://klov.co" target="_blank">KLOV</a></p>
+                        </div>
+                        <!-- end logo -->
+                    </div>
+                </div>
+            </div>
+            <!-- scroll to top -->
+            <a href="javascript:;" class="scrollToTop"><i class="fa fa-angle-up"></i></a>
+            <!-- scroll to top End... -->
+        </footer>
+        <!-- end footer -->
+        <!-- javascript libraries -->
+        <script type="text/javascript" src="js/modernizr.js"></script>
+        <script type="text/javascript" src="js/bootstrap.js"></script>
+        <script type="text/javascript" src="js/bootstrap-hover-dropdown.js"></script>
+        <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+        <script type="text/javascript" src="js/skrollr.min.js"></script>
+        <script type="text/javascript" src="js/smooth-scroll.js"></script>
+        <!-- animation -->
+        <script type="text/javascript" src="js/wow.min.js"></script>
+        <!-- page scroll -->
+        <script type="text/javascript" src="js/page-scroll.js"></script>
+        <!-- easy piechart-->
+        <script type="text/javascript" src="js/jquery.easypiechart.js"></script>
+        <!-- parallax -->
+        <script type="text/javascript" src="js/jquery.parallax-1.1.3.js"></script>
+        <!--portfolio with shorting tab -->
+        <script type="text/javascript" src="js/jquery.isotope.min.js"></script>
+        <!-- owl slider  -->
+        <script type="text/javascript" src="js/owl.carousel.min.js"></script>
+        <!-- magnific popup  -->
+        <script type="text/javascript" src="js/jquery.magnific-popup.min.js"></script>
+        <script type="text/javascript" src="js/popup-gallery.js"></script>
+        <!-- text effect  -->
+        <script type="text/javascript" src="js/text-effect.js"></script>
+        <!-- revolution slider  -->
+        <script type="text/javascript" src="js/jquery.tools.min.js"></script>
+        <script type="text/javascript" src="js/jquery.revolution.js"></script>
+        <!-- counter  -->
+        <script type="text/javascript" src="js/counter.js"></script>
+        <!-- fit videos  -->
+        <script type="text/javascript" src="js/jquery.fitvids.js"></script>
+        <!-- imagesloaded  -->
+        <script type="text/javascript" src="js/imagesloaded.pkgd.min.js"></script>
+        <!-- setting -->
+        <script type="text/javascript" src="js/main.js"></script>
+    </body>
+</html>
